@@ -15,8 +15,7 @@ Features:
 - CoreXY
 - 
 
-BOM
-
+BOM 
 https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0
 
 Videos on Youtube
