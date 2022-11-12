@@ -1,4 +1,4 @@
-# Bijou
+# Rook
 Welcome to the DIY 3D Printer called Rook!
 
 This is a tiny mostly 3d printed CoreXY priner with a build colume of 120x120
