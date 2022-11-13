@@ -13,9 +13,11 @@ Features:
 
 - 3D Printed Frame
 - CoreXY
-- 
+- Dual Lead Screws
+- Only Roughly $260 USD in cost
 
-BOM 
+BOM
+
 https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0
 
 Videos on Youtube
