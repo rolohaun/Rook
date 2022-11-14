@@ -1,7 +1,7 @@
 # Rook
 Welcome to the DIY 3D Printer called Rook!
 
-This is a tiny mostly 3d printed CoreXY printer with a build colume of 120x120
+This is a tiny mostly 3d printed CoreXY printer with a build volume of 120x120
 
 ![](Build_Photos/rook.png)
 
