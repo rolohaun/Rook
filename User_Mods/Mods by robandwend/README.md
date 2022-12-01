@@ -16,3 +16,9 @@ The Base plate is designed to cover up any electronics added under the bed, and 
 
 ### Legs
 * Fillet to match the Base Plate above
+
+### Top Plate
+
+Rook Graphic added
+
+![Image](./Images/topplate.JPG)
