@@ -19,7 +19,7 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 ## Build F.A.Q
 
 - I print with 3 walls and 15 percent infill, if you want stronger go 4 walls 20 percent infill should be plenty
-- I use PLA-PRO for the prototype and it worked well, ABS and ASA wold be great too
+- I use PLA-PRO for the prototype and it worked well, ABS and ASA would be great too
 - My Discord server has alot of mods for the Rook check it out
 - This printer uses some heatset inserts in key places
 - This printer uses all F695 bearings now no more 20t idlers
