@@ -1,4 +1,8 @@
 # Rook
+
+###NOTE!!!
+###A quick note for everyone I will be to a massive overhaul of the original Rook called the Rook Evolution! This is going to be the final form of the printer with a ton of fixes and changes. The Rook Evolution will be available for  a small fee ( $10 CND )for the STL's as I am going to be building a website / manuals / paying for Github bandwidth. This will probably be a patreon tier. Rook Legacy and Rook 180 will always be free.
+
 Welcome to the DIY 3D Printer called Rook!
 
 This is a tiny mostly 3d printed CoreXY printer with a build volume of 120x120
