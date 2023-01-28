@@ -30,7 +30,7 @@ The goal of this printer is to make a cheap easy to build 3D printer than can be
 - This printer uses all F695 bearings now no more 20t idlers
 - There are slots in the motor mounts to tension the belts
 
-### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1oHDEvndkkvPFOBis4atrHRHK_DMTvttFUFWDg2He6To/edit#gid=0)
+### [BOM on Google Drive](https://docs.google.com/spreadsheets/d/1eSiEPep2t6hHPWwe1TDdTop5iFSTZ_aXrncyFnwd680/edit?usp=sharing)
 
 ### [Videos on Youtube](https://www.youtube.com/playlist?list=PLypdl9fsWkKeaa7d5Pv2bP5feIVcw-To2)
 
