@@ -1,4 +1,4 @@
-# Rook
+# Rook Legacy ( Old Version )
 
 ### NOTE
 
@@ -9,8 +9,6 @@ Welcome to the DIY 3D Printer called Rook!
 This is a tiny mostly 3d printed CoreXY printer with a build volume of 120x120
 
 ![image of Rook 3D Printer](Build_Photos/rook.png)
-
-### PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
 
 The goal of this printer is to make a cheap easy to build 3D printer than can be built by anyone.
 
